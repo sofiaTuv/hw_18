@@ -1,4 +1,4 @@
-Используется poetry.Минимальную мета-информацию в pyproject.toml
+Используется poetry. Минимальная мета-информацию в pyproject.toml
 
 В зависимостях: python, pytest, selene
 
